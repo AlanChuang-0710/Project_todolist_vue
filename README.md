@@ -1,24 +1,19 @@
-# todolist_project
+Project_todolist_vue
+本專案練習主要為建立小型代辦清單APP
 
-## Project setup
-```
-npm install
-```
+涉及技術如下:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. HTML
+2. CSS
+3. Javascript
+4. Vue
 
-### Compiles and minifies for production
-```
-npm run build
-```
+亮點包含:
 
-### Lints and fixes files
-```
-npm run lint
-```
+1. Vue 組件的切分
+2. 代辦事項增刪改查的功能
+3. 全局事件總線($bus)的應用
+4. localStorage 的應用
+5. nanoid 插件的應用
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+僅供學習使用，無任何商業用途
