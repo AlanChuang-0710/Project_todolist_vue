@@ -146,7 +146,7 @@ body {
 
 .todo-container {
   width: 600px;
-  margin: 0 auto;
+  margin: 100px auto;
 }
 .todo-container .todo-wrap {
   padding: 10px;
